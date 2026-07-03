@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background:#f4f6f9;
+}
+
+.sidebar{
+    min-height:100vh;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+}
+
+.table{
+    vertical-align:middle;
+}
