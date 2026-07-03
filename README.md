@@ -2,6 +2,21 @@
 
 Cash Or Duel merupakan aplikasi marketplace berbasis web yang dikembangkan menggunakan Laravel 12 sebagai proyek Ujian Akhir Semester (UAS) mata kuliah Pengembangan Layanan Teknologi Web. Aplikasi ini menyediakan fitur transaksi jual beli secara online dengan tiga jenis pengguna yaitu Admin, Seller, dan Buyer.
 
+akun admin
+admin@gmail.com
+password : 12345678
+
+akun buyer
+davit@gmail.com
+password : 12345678
+
+akun seller
+andre@gmail.com
+password : 12345678
+
+dara@gmail.com
+password : 12345678
+
 ## Identitas
 
 - Nama : Davit Idris Riswanda
